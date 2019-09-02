@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/placesFragment"
+            android:title="@string/menu_places" />
+        <item
+            android:id="@+id/restaurantsFragment"
+            android:title="@string/menu_restaurants" />
+        <item
+            android:id="@+id/hotelsFragment"
+            android:title="@string/menu_hotels" />
+        <item
+            android:id="@+id/beachesFragment"
+            android:title="@string/menu_beaches" />
+    </group>
+
+</menu>

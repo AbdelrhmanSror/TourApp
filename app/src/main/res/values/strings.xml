@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">TourApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Egypt</string>
+    <string name="nav_header_subtitle">Popular Places</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_places">Places</string>
+    <string name="menu_restaurants">Restaurants</string>
+    <string name="menu_hotels">Hotels</string>
+    <string name="menu_beaches">Beaches</string>
+
+
+    <string name="Lai_Thai">Lai Thai</string>
+    <string name="lai_Thai_description">
+        No doubt Lai Thai is the best place which is placed top position in list of restaurants. Its exterior and interior design is heavily furnished with attractive look. The food is so tasty and awesome one where your saliva comes out from mouth before taking the food
+    </string>
+    <string name="Aqua">Aqua</string>
+    <string name="Aqua_description">
+        Two reasons are behind while you visit this restaurant. Firstly, it is in Nile side. It is one of the places which are foodie’s paradise who would like to sink their food before soothing sight of the serene Nile. Secondly, seafood serves here where great delicious tasty and amazing food is here.
+    </string>
+    <string name="About_el_Sid">About el Sid</string>
+    <string name="About_el_Sid_description">
+        After taking the bite of local cuisines Egypt trip will be fulfilled otherwise not. Well! Décor of food and ambiance of restaurant is the high public demand. Otherwise your table will be empty and get empty hand with empty bill
+    </string>
+    <string name="po_signature">PO SIGNATURE</string>
+    <string name="po_signature_description">
+        P.O signature The Spinning Grill Kitchen will definitely be on your list this year. They have made the FRESHEST bread, the FINEST meat, and the most INTENSE burger for you. The result from THEIR Burger ingredient, texture, flavor will knock your socks off. You just need to TRY IT NOW.When they thought about it they decided their signature won\'t be only burger. They have CHICKEN signatures served in their buttered &amp; toasted buns that will satisfy all your cravings.their variety of BURGERS and CHICKEN will guarantee you a mouth-watering experience to share with your friends
+    </string>
+
+
+
+
+    <string name="Giza_Necropolis">Lai Thai</string>
+    <string name="Giza_Necropolis_description">
+        The Pyramids of Giza, situated in the immediate vicinity of the southwestern suburbs of Cairo are the undisputable top attractions in Egypt. The pyramids at Giza were built over the span of three generations – by Khufu, his second reigning son Khafre, and Menkaure. The Great Pyramid of Khufu is an awe-inspiring 139 meters (455 feet) high making it the largest pyramid in Egypt, although nearby Khafre’s Pyramid appears to be larger as it is build at a higher elevation.
+    </string>
+    <string name="Karnak">Aqua</string>
+    <string name="Karnak_description">
+        Although badly ruined, few sites in Egypt are more impressive than Karnak. It is the largest ancient religious site ever built, and represents the combined achievement of many generations of Egyptian builders. The Temple of Karnak actually consists of three main temples, smaller enclosed temples, and several outer temples located about 2.5 kilometers north of Luxor. One of most famous structures of Karnak is the Hypostyle Hall, a hall area of 5,000 m2 (50,000 sq ft) with 134 massive columns arranged in 16 rows.
+    </string>
+    <string name="Red_Sea_Reef">Red Sea Reef</string>
+    <string name="Red_Sea_Reef_description">
+        The Red Sea, off the coast of Egypt, is one of the most beautiful places in the world to go diving. The waters of the Red Sea are renowned for their spectacular visibility and features some of the most exotic seascapes. With its wide expanse of coral formation on the reefs, it is home to thousands of different sea creatures. Red Sea beach resorts are located on both sides of the sea, on the east side and part of the Sinai peninsula is the long established Sharm el Sheikh and its neo-hippy counterpart, Dahab. On the west coast of the Red Sea lies relatively old and touristy Hurghada and a cluster of new resort towns.
+    </string>
+    <string name="River_Nile_Cruise">River Nile Cruise</string>
+    <string name="River_Nile_Cruise_description">
+        Cruising the Nile is a popular way of visiting upper Egypt. The Nile River has been Egypt’s lifeline since ancient times and there is no better way to trace the passage of Egypt’s history than to follow the course of the Nile. Almost all Egyptian cruise ships travel the Luxor-Aswan route which is safe, scenic and terminates at two of Egypt’s most important towns. Taking a Felucca down the Nile is an adventurous option. Feluccas are sail boats that have been used on the Nile since antiquity. A Felucca is not quite as comfortable as a luxury cruise ship but nothing can beat sailing in a quiet rig that was designed thousands of years ago.
+    </string>
+
+
+
+    <string name="La_Villa_Boutique_Hotel">La Villa Boutique Hotel, Alexandria</string>
+    <string name="La_Villa_Boutique_Hotel_description">
+        Built in the early 1920’s by Mustafa Fahmy Pasha; the personal architect of King Farouk I, this building has stood there; accommodating royalty and majesty. Having one of the only 2 hand-carved wooden stair cases sent directly from Paris, France, the other which is currently in the Montazah Royal Palace. Along with paintings and antiques from around the world, especially the famous painting of Baroness Marie Alexandrine von Vetsera; the star of the famous Mayerling Palace tragedy in Austria (19 March 1871 – 30 January 1889).
+    </string>
+    <string name="El_Salamlek_Palace_Hotel">El Salamlek Palace Hotel, Alexandria</string>
+    <string name="El_Salamlek_Palace_Hotel_description">
+        Nestled on a hill overlooking the royal Mediterranean bay, take a journey into the glamorous past, a world of legendary elegance and opulence.Built in 1892 by the Khedive Abbas Helmi II, the palace was intended to be a hunting lodge and was surrounded by a man made jungle; the grounds were stocked with game for the hunting pleasure of the Khedive and his guests. Over the years the palace served as a royal resort under King Fouad I and during the reign of King Farouk I, the palace was used as his summer office and a guest house for his valuable visitors.
+    </string>
+    <string name="Adrère_Amellal_Desert_Ecolodge">Adrère Amellal Desert Ecolodge, Siwa</string>
+    <string name="Adrère_Amellal_Desert_Ecolodge_description">
+        An out of this world luxury eco-hotel, set in a corner in the magical, scenic Siwa oasis. The entire hotel is built with locally sourced materials, with nothing imported from outside the immediate perimeter of the hotel. Even the furniture is made from local trees. There’s no electricity, no AC’s, only time-honoured oil lamps and a natural breeze.
+    </string>
+    <string name="Le_Riad_Hôtel_de_Charme">Le Riad Hôtel de Charme, Cairo</string>
+    <string name="Le_Riad_Hôtel_de_Charme_description">
+        Tucked away in The Grand Street of Historic Islamic Cairo—Al-Mu’izz li-Deen Illah Street, sits Le Riad Hôtel de Charme, a mere 5 minutes walking distance from Khan Al-Khalili. With only 17 very private suites facing Al-Darb Al-Asfar alley and its exceptional Ottoman era houses and a roof garden with a panoramic view of the 1000 minarets of Cairo, the ancient city walls, the Moqattam hills, and the citadel of Salah A-Din and the great Mosque of Mohamed Ali.Set in an old building from the 1960s, it was lovingly transformed by a pair of art lovers; Youssef Takla, a Syrian man and Véronique Sedro, a French woman, with an exquisite dream that turned into a reality of mashrabeyas, antiques and arches invoking the rich history of its surroundings.
+    </string>
+
+
+
+
+
+    <string name="Fjord_Bay">La Villa Boutique Hotel, Alexandria</string>
+    <string name="Fjord_Bay_description">
+        Located around 15-kilometers away from the small Egyptian town of Taba, near the border with neighboring Eilat in Israel, is a piece of picture-perfect paradise. Fjord Bay is the ideal location for diving, whether you have hundreds of hours of diving experience under your belt or you fancy giving it a go for the first time. The reason this place is such an amazing spot to dive in is down to the massive bed of coral that lies at the bottom of the fjord. An impressive 24-meters in depth, it’s hard to believe the sheer amount of fish and the diversity of marine life that lives among the reef. It’s nice to know that a healthy reef is an indication of clean water and good ecological balance. The fjord itself is a deep blue cove that is protected on three sides by a mountain range, which is great for hiking and taking in panoramic views over the fjord.
+    </string>
+    <string name="Ras_Abu_Galoum">Ras Abu Galoum, Dahab</string>
+    <string name="Ras_Abu_Galoum_description">
+        If you are looking for a stunning spot to do some snorkeling or diving, then Ras Abu Galoum is a brilliant choice. Situated close to a traditional Bedouin settlement – around 15-kilometers from the small coastal town of Dahab on the southeast coast of the Sinai Peninsula – is this sparklingly blue patch of ocean. This desert diving paradise is a feast for the eyes; the stunning seascape contrasts brilliantly with the arid rocky land and makes for a very special spot to visit. Arrive across the desert on camel-back before diving into the depths of the Red Sea, and experience for yourself the magnificence of its underwater landscape. Hard and soft coral create the perfect environment for angelfish, parrotfish and Picasso fish, amongst others, so make sure to bring your underwater camera
+    </string>
+    <string name="Nuweiba">Nuweiba</string>
+    <string name="Nuweiba_description">
+        Nuweiba was once a thriving beach resort in the 1970’s, and was on the up until politics and relations with Israel meant that the beautiful beach was left to slide into decline. The beach is now a simple, low-key place, with the most interesting part home to a Bedouin village. Located on the coast of the Gulf of Aqaba, Nuweiba city may pale in comparison to developed resorts like Sharm El Sheikh, but its lack of infrastructure also adds to the charm. Now a popular stop-off on the Egyptian backpacking trail, the seven-kilometer long stretch of sand translates as ‘bubbling springs’ in Arabic. It is a pleasant spot to spend a few days soaking up traditional culture and exploring the natural beauty of the area. South Cove, a short drive away, is a great little spot for diving, and treks to the Coloured Canyon can be arranged through the Bedouin village.
+    </string>
+    <string name="Mahmya_Island">Mahmya Island</string>
+    <string name="Mahmya_Island_description">If you are looking for a scuba diving Shangri La, Mahmya Island in the Giftun Island National Park is the place for you. An adventurous 45-minutes by boat from Hurghada, spend the day here snorkeling among the coral reefs and underwater garden in the most picturesque part of the Red Sea. Visiting the national park and the magnificence of Mahmya is like an exotic escape. Delve into the depths of the water and experience a world of rainbow fish and dolphins. It might get more than a little busy here with tour groups during high season, but the focus is on ecotourism and the support of the Red Sea’s delicate aquatic ecosystem. Visiting the island is experience you won’t forget.</string>
+    <string name="Fjord_Bay_uri">https://www.touropia.com/gfx/d/best-beaches-in-egypt/fjord_bay_taba.jpg?v=ee36b0f1881db319c894184d679f667c</string>
+    <string name="Ras_Abu_Galoum_uri">https://www.touropia.com/gfx/d/best-beaches-in-egypt/ras_abu_galoum.jpg?v=9aff35f07d6e6731044c8cbfb726043b</string>
+    <string name="Nuweiba_uri">https://www.touropia.com/gfx/d/best-beaches-in-egypt/nuweiba.jpg?v=1</string>
+    <string name="Mahmya_Island_uri">https://www.touropia.com/gfx/d/best-beaches-in-egypt/mahmya_island.jpg?v=fc6f68b9d3b482f0a2f289e33bcf9a12</string>
+    <string name="La_Villa_Boutique_Hotel_uri">https://images.yamsafer.me/aliens/141350/large/hotels/5000000/4730000/4726800/4726749/e9d35894.jpg</string>
+    <string name="El_Salamlek_Palace_Hotel_uri">https://pix10.agoda.net/hotelImages/189/189412/189412_13081822360014400486.jpg?s=1024x768</string>
+    <string name="Adrère_Amellal_Desert_Ecolodge_uri">https://www.uniqhotels.com/media/hotels/66/4.jpg</string>
+    <string name="Le_Riad_Hôtel_de_Charme_uri">https://s-ec.bstatic.com/images/hotel/max1024x768/174/174084227.jpg</string>
+    <string name="Giza_Necropolis_uri">https://www.touropia.com/gfx/d/true-pyramids-of-the-world/giza_necropolis.jpg?v=48ea8829c5a2f321becee2e738673a4d</string>
+    <string name="Karnak_uri">https://www.touropia.com/gfx/d/ancient-egyptian-temples/karnak.jpg?v=abd4e1b26a795eba99dd6e2fd553ad60</string>
+    <string name="Red_Sea_Reef_uri">https://www.touropia.com/gfx/d/best-dive-spots-in-the-world/red_sea_reef.jpg?v=1</string>
+    <string name="River_Nile_Cruise_uri">https://www.touropia.com/gfx/d/top-attractions-in-egypt/river_nile_cruise.jpg?v=729a33c8078fa3629fdd252d758ebe77</string>
+    <string name="Lai_Thai_uri">https://assets.cairo360.com/app/uploads/2011/10/article_original_2827_20111910_504517620-600x323.jpeg</string>
+    <string name="Aqua_uri">https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/87/2017/02/02160813/jungle_aqua_park_aqua_park_restaurant_gallery_01.jpg</string>
+    <string name="About_el_Sid_uri">https://media-cdn.tripadvisor.com/media/photo-s/15/22/0e/c0/abou-el-sid-dining-area.jpg</string>
+    <string name="po_signature_uri"><![CDATA[https://scontent.faly2-2.fna.fbcdn.net/v/t1.0-9/67714375_502885676921375_8808973964136153088_o.jpg?_nc_cat=106&_nc_oc=AQm7zcewHFvyBJIy2seGus5txXqpP2qoaE8mro0Wudfe4aQrnOQJoej6yXdS5Jr6zhw&_nc_ht=scontent.faly2-2.fna&oh=4e27f3f4dca16458f1d555f17782df79&oe=5DD2A135]]></string>
+
+
+</resources>

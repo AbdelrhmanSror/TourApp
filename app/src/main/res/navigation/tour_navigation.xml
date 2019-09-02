@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tour_navigation"
+    app:startDestination="@id/placesFragment">
+
+    <fragment
+        android:id="@+id/placesFragment"
+        android:name="com.example.tourapp2.ui.places.PlacesFragment"
+        android:label="places_fragment"
+        tools:layout="@layout/places_fragment" />
+    <fragment
+        android:id="@+id/hotelsFragment"
+        android:name="com.example.tourapp2.ui.hotels.HotelsFragment"
+        android:label="hotels_fragment"
+        tools:layout="@layout/hotels_fragment" />
+    <fragment
+        android:id="@+id/restaurantsFragment"
+        android:name="com.example.tourapp2.ui.restaurant.RestaurantsFragment"
+        android:label="RestaurantsFragment" />
+    <fragment
+        android:id="@+id/beachesFragment"
+        android:name="com.example.tourapp2.ui.beaches.BeachesFragment"
+        android:label="BeachesFragment" />
+</navigation>
